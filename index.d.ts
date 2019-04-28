@@ -287,6 +287,6 @@ declare namespace tuiImageEditor {
     }
 }
 
-declare module 'tui-image-editor' {
+declare module 'zelikov-tui-image-editor' {
     export default tuiImageEditor.ImageEditor;
 }
